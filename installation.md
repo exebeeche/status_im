@@ -12,7 +12,7 @@ Click **Get Status** for downloading your version of the app on the [Status port
 
 ### Step 2
 
-Click the Linux operation system icon in the Desktop part of the page. The download will start immediately via the tools of your browser. By default, any browser stores all downloads in the **Download** directory. If you have changed this directory, check it to find the installation archive.
+Click the Linux operation system icon on the Desktop part of the page. The download will start immediately via the tools of your browser. By default, any browser stores all downloads in the **Download** directory. If you have changed this directory, check it to find the installation archive.
 
 ![Downloading process](img/download.png)
 
@@ -26,13 +26,13 @@ Open the Terminal using the Status working directory. Execute this command:
 
     ./StatusIm-Desktop-*.AppImage
 
-You can rename the AppImage file for the more simple usage. After the AppImage command, the Status app starts:
+You can rename the AppImage file for more simple usage. After the AppImage command, the Status app starts:
 
 ![Running the app](img/execution_command.png)
 
 ### Step 5
 
-After start, you see the enter screen:
+After the start, you see the entry screen:
 
 ![Enter screen](img/enter_screen.png)
 
@@ -40,7 +40,7 @@ Before checking the boxes, please, read the Terms of Use. Then press **Start**.
 
 ### Step 6
 
-You can use your existing key, or generate a new one.
+You can use your existing key or generate a new one.
 
 ![Generating the keys](img/keys.png)
 
@@ -58,7 +58,7 @@ Then create a password:
 
 #### Entering
 
-Conrgats! Now you can use the Status app:
+Congrats! Now you can use the Status app:
 
 ![Creating a password](img/status_app.png)
 
